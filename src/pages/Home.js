@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 //import transtion
 import {transition1} from '../transitions'
-//----------------------pana senehasa 
+
 const Home = () => {
   return (
   <motion.div 
